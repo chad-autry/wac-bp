@@ -1,3 +1,7 @@
+# ARCHIVE NOTE
+I am archiving all of my W.A.C Web Application Cluster repositories.
+I have migrated to operating personal projects using serverless hosting for everything.
+
 # web-application cluster boiler-plate
 Documentation and scripts for running a full web application in a micro-services style. Many pieces are optional and could be swapped out to match others desires.
 
